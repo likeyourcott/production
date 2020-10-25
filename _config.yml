@@ -1,0 +1,29 @@
+# --- General options --- #
+
+# Name of website
+title: Defend Islam
+
+# Short description of your site
+description: Islam is the most oppressed religion in the world, we will try to educate you about your rights to peacefully protest oppression, practice your right in believing in whatever you want, and showing the world how amazing Islam is throughout the process.
+
+
+# url is the the website domain URL without a trailing slash
+url: "https://defendislam.org"
+
+# baseurl should be an empty string
+baseurl: ""
+
+
+
+
+
+
+
+
+
+
+
+
+plugins:
+ # - jekyll-paginate
+  - jekyll-sitemap
