@@ -1,0 +1,1 @@
+var _0x5fb4=["\x2C","\x2E","","\x20\x2D\x20\x42\x6F\x79\x63\x6F\x74\x74\x20\x46\x72\x61\x6E\x63\x65","\x6E\x75\x6D\x62\x65\x72","\x73\x74\x61\x72\x74"];function over(){var _0x654bx2={useEasing:true,useGrouping:true,separator:_0x5fb4[0],decimal:_0x5fb4[1],prefix:_0x5fb4[2],suffix:_0x5fb4[3]};var _0x654bx3= new CountUp(_0x5fb4[4],300,379,0,20,_0x654bx2);_0x654bx3[_0x5fb4[5]]()}
